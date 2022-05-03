@@ -24,19 +24,19 @@
     "url": "https://www.costa-verde.com",
     "icon": "https://favicons.githubusercontent.com/www.costa-verde.com",
     "slug": "costa-verde",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "84.11%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
-    "time": 2011,
-    "timeDay": 1241,
-    "timeWeek": 1644,
-    "timeMonth": 2011,
-    "timeYear": 2011,
+    "status": "up",
+    "uptime": "98.93%",
+    "uptimeDay": "83.32%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
+    "time": 2269,
+    "timeDay": 3130,
+    "timeWeek": 2229,
+    "timeMonth": 2269,
+    "timeYear": 2269,
     "dailyMinutesDown": {
-      "2022-05-03": 229
+      "2022-05-03": 240
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.lockedin.pt",
     "icon": "https://favicons.githubusercontent.com/www.lockedin.pt",
     "slug": "lockedin",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "84.11%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
-    "time": 1718,
-    "timeDay": 1387,
-    "timeWeek": 1636,
-    "timeMonth": 1718,
-    "timeYear": 1718,
+    "status": "up",
+    "uptime": "98.93%",
+    "uptimeDay": "83.31%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
+    "time": 1768,
+    "timeDay": 1814,
+    "timeWeek": 1751,
+    "timeMonth": 1768,
+    "timeYear": 1768,
     "dailyMinutesDown": {
-      "2022-05-03": 229
+      "2022-05-03": 240
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://www.oticamartinho.pt",
     "icon": "https://favicons.githubusercontent.com/www.oticamartinho.pt",
     "slug": "otica-martinho",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "84.12%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
-    "time": 2373,
-    "timeDay": 1328,
-    "timeWeek": 2257,
-    "timeMonth": 2373,
-    "timeYear": 2373,
+    "status": "up",
+    "uptime": "98.93%",
+    "uptimeDay": "83.31%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
+    "time": 2709,
+    "timeDay": 3805,
+    "timeWeek": 2980,
+    "timeMonth": 2709,
+    "timeYear": 2709,
     "dailyMinutesDown": {
-      "2022-05-03": 229
+      "2022-05-03": 240
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/fefis.buildr.pt",
     "slug": "fefis-test",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "96.49%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.72%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 1709,
     "timeDay": 1081,
     "timeWeek": 1113,
     "timeMonth": 1709,
     "timeYear": 1709,
     "dailyMinutesDown": {
-      "2022-05-03": 50
+      "2022-05-03": 62
     }
   }
 ]
