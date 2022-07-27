@@ -11,8 +11,6 @@ sites:
     url: https://www.lockedin.pt
   - name: Otica Martinho
     url: https://www.oticamartinho.pt
-  - name: fefis test
-    url: https://fefis.buildr.pt
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
