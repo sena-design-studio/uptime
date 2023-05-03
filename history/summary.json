@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
-    "time": 1575,
-    "timeDay": 1803,
-    "timeWeek": 2572,
-    "timeMonth": 3865,
-    "timeYear": 1603,
+    "time": 1578,
+    "timeDay": 2971,
+    "timeWeek": 2613,
+    "timeMonth": 3878,
+    "timeYear": 1605,
     "dailyMinutesDown": {
       "2023-04-15": 20,
       "2023-03-28": 452,
-      "2023-03-27": 31,
-      "2022-05-03": 50
+      "2023-03-27": 31
     }
   },
   {
@@ -33,18 +32,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.83%",
-    "time": 2554,
-    "timeDay": 1692,
-    "timeWeek": 2717,
-    "timeMonth": 3132,
-    "timeYear": 2572,
+    "time": 2555,
+    "timeDay": 3222,
+    "timeWeek": 2748,
+    "timeMonth": 3158,
+    "timeYear": 2575,
     "dailyMinutesDown": {
       "2023-04-15": 19,
       "2023-03-28": 452,
       "2023-03-27": 31,
       "2022-11-02": 108,
-      "2022-09-01": 29,
-      "2022-05-03": 240
+      "2022-09-01": 29
     }
   },
   {
@@ -58,19 +56,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.68%",
-    "time": 2502,
-    "timeDay": 2301,
-    "timeWeek": 3304,
-    "timeMonth": 4042,
-    "timeYear": 2532,
+    "time": 2504,
+    "timeDay": 3637,
+    "timeWeek": 3395,
+    "timeMonth": 4059,
+    "timeYear": 2535,
     "dailyMinutesDown": {
       "2023-04-15": 36,
       "2023-03-28": 452,
       "2023-03-27": 31,
       "2022-11-02": 101,
       "2022-05-18": 92,
-      "2022-05-11": 720,
-      "2022-05-03": 240
+      "2022-05-11": 720
     }
   },
   {
@@ -79,16 +76,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oticamartinho.pt.ico",
     "slug": "otica-martinho",
     "status": "up",
-    "uptime": "94.07%",
+    "uptime": "94.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "93.85%",
-    "time": 3504,
-    "timeDay": 2484,
-    "timeWeek": 5513,
-    "timeMonth": 5393,
-    "timeYear": 3545,
+    "time": 3514,
+    "timeDay": 7719,
+    "timeWeek": 5920,
+    "timeMonth": 5497,
+    "timeYear": 3560,
     "dailyMinutesDown": {
       "2023-04-15": 36,
       "2023-03-28": 452,
@@ -119,8 +116,7 @@
       "2022-07-01": 1440,
       "2022-06-30": 39,
       "2022-06-24": 16,
-      "2022-05-18": 92,
-      "2022-05-03": 240
+      "2022-05-18": 92
     }
   }
 ]
