@@ -1,7 +1,7 @@
 url: https://www.costa-verde.com
-status: up
-code: 200
-responseTime: 12980
-lastUpdated: 2023-10-12T23:43:01.055Z
+status: down
+code: 500
+responseTime: 762
+lastUpdated: 2023-10-12T23:53:33.973Z
 startTime: 2022-04-18T09:06:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
