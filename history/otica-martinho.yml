@@ -1,7 +1,7 @@
 url: https://www.oticamartinho.pt
-status: up
-code: 200
-responseTime: 2616
-lastUpdated: 2024-03-12T23:13:18.130Z
+status: down
+code: 500
+responseTime: 605
+lastUpdated: 2024-03-13T06:26:41.385Z
 startTime: 2022-04-18T09:06:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
