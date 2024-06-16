@@ -1,7 +1,7 @@
 url: https://www.lockedin.pt
-status: up
-code: 200
-responseTime: 2836
-lastUpdated: 2024-06-16T09:58:55.956Z
+status: down
+code: 500
+responseTime: 685
+lastUpdated: 2024-06-16T11:57:03.336Z
 startTime: 2022-04-18T09:06:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
