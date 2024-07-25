@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.80%",
     "time": 2794,
-    "timeDay": 3455,
-    "timeWeek": 3004,
-    "timeMonth": 3533,
+    "timeDay": 2518,
+    "timeWeek": 2979,
+    "timeMonth": 3501,
     "timeYear": 2396,
     "dailyMinutesDown": {
       "2024-07-16": 20,
@@ -25,8 +25,7 @@
       "2023-09-15": 119,
       "2023-09-13": 96,
       "2023-09-06": 72,
-      "2023-07-27": 550,
-      "2023-07-26": 22
+      "2023-07-27": 550
     }
   },
   {
@@ -40,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.62%",
-    "time": 3277,
-    "timeDay": 3454,
-    "timeWeek": 2857,
-    "timeMonth": 2696,
-    "timeYear": 3333,
+    "time": 3276,
+    "timeDay": 2618,
+    "timeWeek": 2829,
+    "timeMonth": 2688,
+    "timeYear": 3334,
     "dailyMinutesDown": {
       "2024-07-12": 20,
       "2024-06-17": 21,
@@ -65,8 +64,7 @@
       "2023-10-29": 16,
       "2023-10-13": 548,
       "2023-10-12": 25,
-      "2023-07-27": 550,
-      "2023-07-26": 22
+      "2023-07-27": 550
     }
   },
   {
@@ -75,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lockedin.pt.ico",
     "slug": "lockedin",
     "status": "down",
-    "uptime": "98.16%",
+    "uptime": "98.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.16%",
-    "uptimeYear": "96.14%",
-    "time": 3279,
-    "timeDay": 222,
-    "timeWeek": 174,
-    "timeMonth": 1156,
-    "timeYear": 3131,
+    "uptimeMonth": "54.88%",
+    "uptimeYear": "95.86%",
+    "time": 3282,
+    "timeDay": 4212,
+    "timeWeek": 733,
+    "timeMonth": 1186,
+    "timeYear": 3133,
     "dailyMinutesDown": {
-      "2024-07-24": 41,
+      "2024-07-25": 40,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -119,8 +118,7 @@
       "2023-10-29": 16,
       "2023-10-13": 539,
       "2023-10-12": 16,
-      "2023-07-27": 550,
-      "2023-07-26": 22
+      "2023-07-27": 550
     }
   },
   {
@@ -129,16 +127,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oticamartinho.pt.ico",
     "slug": "otica-martinho",
     "status": "up",
-    "uptime": "95.35%",
+    "uptime": "95.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "95.61%",
-    "time": 4160,
-    "timeDay": 3088,
-    "timeWeek": 3355,
-    "timeMonth": 3973,
-    "timeYear": 3623,
+    "time": 4163,
+    "timeDay": 4965,
+    "timeWeek": 3675,
+    "timeMonth": 3912,
+    "timeYear": 3629,
     "dailyMinutesDown": {
       "2024-07-12": 19,
       "2024-06-16": 49,
@@ -167,8 +165,7 @@
       "2023-11-01": 37,
       "2023-10-13": 557,
       "2023-10-12": 27,
-      "2023-07-27": 550,
-      "2023-07-26": 22
+      "2023-07-27": 550
     }
   }
 ]
